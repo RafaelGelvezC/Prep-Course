@@ -1,5 +1,9 @@
 body {
     background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pngtree.com%2Ffreebackground%2Ffood-background_83391.html&psig=AOvVaw3xIVxkHnL_V4t_IgyqaEwB&ust=1643801265989000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCIs4uz3vUCFQAAAAAdAAAAABAD);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 
 }
 h1 { 
